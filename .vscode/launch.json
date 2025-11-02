@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: task 1",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "module10_task1and2.py",
+      "console": "integratedTerminal",
+    }
+  ]
+}
